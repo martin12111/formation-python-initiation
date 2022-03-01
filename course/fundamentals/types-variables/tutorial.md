@@ -5,6 +5,7 @@ abstract: "Découverte des types de base (nombres et chaînes de caractères) et
 
 Dans ce premier TP, nous allons découvrir les objets les plus fondamentaux de Python : les **nombres** et les **chaînes de caractère**. Nous allons également voir comment l'on peut assigner des objets à des **variables**, afin de réaliser des opérations avec ces objets.
 
+1111
 ## Nombres
 
 ### Types de nombres
